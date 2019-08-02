@@ -1,5 +1,5 @@
 # GmailBackground
-### Forked https://github.com/yesidlazaro/GmailBackground
+### Forked from https://github.com/yesidlazaro/GmailBackground
 
 a small library to send a email in background withou user interaction 
 ```java
